@@ -45,9 +45,7 @@ function Post() {
                         <span>TimeStamp</span>
                     </div>
                 </div>
-                <div className = "post-answer">
-                    This is test answer
-                </div>
+                <div className = "post-answer">This is test answer</div>
             </div>
         </div>
     </div>
